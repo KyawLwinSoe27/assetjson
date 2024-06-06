@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dynaverse.storexpress",
+      "sha256_cert_fingerprints":
+      ["1F:07:AA:07:8C:91:1E:A9:04:D3:79:BF:75:E4:E2:D8:A9:C4:F1:A0:4A:66:3F:D1:7C:18:57:CB:9F:9D:54:7C"]
+    }
+  }
+]
